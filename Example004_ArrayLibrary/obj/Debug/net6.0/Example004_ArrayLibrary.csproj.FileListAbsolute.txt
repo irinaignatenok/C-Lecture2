@@ -1,0 +1,15 @@
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example004_ArrayLibrary/obj/Debug/net6.0/Example004_ArrayLibrary.csproj.AssemblyReference.cache
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example004_ArrayLibrary/obj/Debug/net6.0/Example004_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example004_ArrayLibrary/obj/Debug/net6.0/Example004_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example004_ArrayLibrary/obj/Debug/net6.0/Example004_ArrayLibrary.AssemblyInfo.cs
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example004_ArrayLibrary/obj/Debug/net6.0/Example004_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example004_ArrayLibrary/bin/Debug/net6.0/Example004_ArrayLibrary
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example004_ArrayLibrary/bin/Debug/net6.0/Example004_ArrayLibrary.deps.json
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example004_ArrayLibrary/bin/Debug/net6.0/Example004_ArrayLibrary.runtimeconfig.json
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example004_ArrayLibrary/bin/Debug/net6.0/Example004_ArrayLibrary.dll
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example004_ArrayLibrary/bin/Debug/net6.0/Example004_ArrayLibrary.pdb
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example004_ArrayLibrary/obj/Debug/net6.0/Example004_ArrayLibrary.dll
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example004_ArrayLibrary/obj/Debug/net6.0/refint/Example004_ArrayLibrary.dll
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example004_ArrayLibrary/obj/Debug/net6.0/Example004_ArrayLibrary.pdb
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example004_ArrayLibrary/obj/Debug/net6.0/Example004_ArrayLibrary.genruntimeconfig.cache
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example004_ArrayLibrary/obj/Debug/net6.0/ref/Example004_ArrayLibrary.dll

@@ -1,0 +1,15 @@
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example002_Array/obj/Debug/net6.0/Example002.csproj.AssemblyReference.cache
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example002_Array/obj/Debug/net6.0/Example002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example002_Array/obj/Debug/net6.0/Example002.AssemblyInfoInputs.cache
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example002_Array/obj/Debug/net6.0/Example002.AssemblyInfo.cs
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example002_Array/obj/Debug/net6.0/Example002.csproj.CoreCompileInputs.cache
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example002_Array/bin/Debug/net6.0/Example002
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example002_Array/bin/Debug/net6.0/Example002.deps.json
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example002_Array/bin/Debug/net6.0/Example002.runtimeconfig.json
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example002_Array/bin/Debug/net6.0/Example002.dll
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example002_Array/bin/Debug/net6.0/Example002.pdb
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example002_Array/obj/Debug/net6.0/Example002.dll
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example002_Array/obj/Debug/net6.0/refint/Example002.dll
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example002_Array/obj/Debug/net6.0/Example002.pdb
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example002_Array/obj/Debug/net6.0/Example002.genruntimeconfig.cache
+/Users/irinaignatenok/Desktop/c#/lecture 2.2/Example002_Array/obj/Debug/net6.0/ref/Example002.dll
